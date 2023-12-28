@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on data analytics
 - 🌱 I’m currently learning python, sql, nosql
-- 😄 Pronouns: he / his / ele / il / él
+- 😄 Pronouns: he / him / ele / il / él
 
 <div style="display: inline_block"><br>
 
